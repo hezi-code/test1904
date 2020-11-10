@@ -14,5 +14,5 @@ package com.hgc.domain;
 public class Persion {
     private String id;
     private String name;
-
+    private String add;
 }
