@@ -1,7 +1,8 @@
-package com.hgc.domain;/**
+package com.hgc.domain;
+/*
  * ClassName:Persion
  * Package:com.hgc.domain
- * description:
+ * description:bjhb
  *
  * @Date:2020/11/10 17:10
  * @aUTHOR:HGC
@@ -12,4 +13,6 @@ package com.hgc.domain;/**
  */
 public class Persion {
     private String id;
+    private String name;
+
 }
